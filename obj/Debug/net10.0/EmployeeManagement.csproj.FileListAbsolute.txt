@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.RazorAssemblyInfo.cs
